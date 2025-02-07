@@ -1,0 +1,7 @@
+@media (max-width: 1280px) {
+    .arte {
+        max-width: 1250px;
+        flex-direction: column;
+        align-items: center;
+    }
+}
