@@ -29,7 +29,7 @@ git clone https://github.com/HenryRomao/PROJ.-LISTA-DE-IMAGENS.git
 
 Acesse a pasta do projeto:
 ```
-cd PROJ. LISTA-DE-IMAGENS 
+cd PROJ.LISTA-DE-IMAGENS 
 ```
 
 Bom estudo. 🍀
